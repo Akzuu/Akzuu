@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, you've reached ___. I'm sorry I missed your call.
+
+I’m a problem‑solver who loves building stylish, easy‑to‑use web applications. When I’m not coding I’m enjoying a good cocktail or exploring the underwater world.
 
 <!--
 **Akzuu/Akzuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
