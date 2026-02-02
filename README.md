@@ -2,7 +2,7 @@
 
 I’m probably sipping a good cocktail with my phone on silent, or exploring an intriguing wreck where the only sound is the steady flow of bubbles from my lungs.
 
-Or maybe I’m at work—who knows? Take a look at the pins; they’ll reveal what I enjoy doing. You can also find me on LinkedIn, but please, no pöhinä. Email? Try 
+Or maybe I’m at work, who knows? Take a look at the pins; they’ll reveal what I enjoy doing. You can also find me on LinkedIn, but please, no pöhinä. Email? Try 
 <a href="mailto:&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;kse.li">
   &#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;kse.li
 </a>
