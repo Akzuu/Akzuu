@@ -1,6 +1,12 @@
-## Hello, you've reached ___. I'm sorry I missed your call.
+## Hello, you’ve reached Kseli. I’m sorry I missed your call.
 
-I’m a problem‑solver who loves building stylish, easy‑to‑use web applications. When I’m not coding I’m enjoying a good cocktail or exploring the underwater world.
+I’m probably sipping a good cocktail with my phone on silent, or exploring an intriguing wreck where the only sound is the steady flow of bubbles from my lungs.
+
+Or maybe I’m at work—who knows? Take a look at the pins; they’ll reveal what I enjoy doing. You can also find me on LinkedIn, but please, no pöhinä. Email? Try 
+<a href="mailto:&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;kse.li">
+  &#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;kse.li
+</a>
+
 
 <!--
 **Akzuu/Akzuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
